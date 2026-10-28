@@ -1,0 +1,16 @@
+{
+  "name": "disk2discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "chokidar": "^6.0.0",
+    "dotenv": "^18.0.9",
+    "sharp": "^0.35.5"
+  }
+}
